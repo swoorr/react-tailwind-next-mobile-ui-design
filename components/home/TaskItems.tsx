@@ -10,7 +10,7 @@ export default function taskItems(props: taskProp) {
   return (
     <>
       <div
-        className={`item h-[190px] saturate-200 rounded-2xl hover:shadow-md transition-all 
+        className={`item saturate-200 rounded-2xl hover:shadow-md transition-all 
         duration-300 p-6 ${bg} bg-opacity-30`}
       >
         <span className="flex justify-between">
